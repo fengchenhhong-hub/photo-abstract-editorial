@@ -3,6 +3,10 @@ name: photo-abstract-editorial
 description: Create a clean, vertical editorial artwork that preserves an uploaded photograph as the original image and pairs it with a restrained, photo-derived abstract memory panel and poetic English title. Use when asked to transform a photo into an abstract editorial diptych, photo-plus-abstraction composition, visual memory panel, or minimalist archival poster without redrawing or stylizing the source photo.
 ---
 
+> **图片风格：** 原片忠实保留 × 极简抽象记忆面板 × 诗意英文标题的杂志编辑作品。
+>
+> **适合：** 建筑、城市、人物与旅行照片的摄影—抽象双区编排（仅限非商业用途，商业使用需作者授权）。
+
 # Photo Abstract Editorial
 
 Create one finished image from one uploaded photograph. Keep the photograph faithful; derive the lower abstract panel only from the photograph's observed spatial, tonal, and color relationships.
