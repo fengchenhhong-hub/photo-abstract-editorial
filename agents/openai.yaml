@@ -1,4 +1,4 @@
 interface:
-  display_name: "Photo Abstract Editorial"
-  short_description: "Create photo-derived editorial abstractions."
-  default_prompt: "Create a clean photo-and-abstract editorial artwork from this image."
+  display_name: "艺术杂志风照片编辑"
+  short_description: "保留原照片上半部，并提炼下半部象牙白极简抽象图形与英文标题"
+  default_prompt: "使用 $photo-abstract-editorial 保留这张原照片，并在下方制作象牙白极简抽象记忆面板与简短英文标题。"
